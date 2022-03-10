@@ -17,6 +17,9 @@ public class Library_Management_Sytem {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.print("abc");
+                System.out.print("dc");
+
+        
     }
     
 }
